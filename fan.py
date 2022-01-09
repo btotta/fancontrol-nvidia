@@ -12,7 +12,7 @@ import subprocess
 default_fan_speed = 0
 
 fan_curve = [25,45,75,100]
-temp_curve = [45,60,70,75]
+temp_curve = [55,60,70,75]
 
 
 # script made for 1 card with 1 fan
